@@ -1,0 +1,1 @@
+export const PRODUCT_LOADED = 'PRODUCT_LOADED';

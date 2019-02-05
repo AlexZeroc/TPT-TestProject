@@ -1,0 +1,30 @@
+.winnerOk {
+    color: green;
+
+}
+.winnerFailed {
+    color: red;
+}
+
+.registration-authorization {
+    margin: 1px;
+    width: 220px;
+    height: auto;
+}
+
+.product-list {
+    border:  1px solid #0003ff;
+    margin: 10px;
+
+}
+
+.comment-list {
+    border:  3px solid #0003ff;
+    margin: 10px;
+}
+
+.addProduct{
+    margin: 10px;
+
+
+}
